@@ -8,7 +8,7 @@ A fully responsive landing page for **Flowly**, a fictional AI-powered productiv
 
 ## Live Demo
 
-🔗 [View live on Netlify / Vercel](#) *(deploy link goes here)*
+🔗 https://flowlylandingpage.netlify.app/ *(Live demo)*
 
 ---
 
