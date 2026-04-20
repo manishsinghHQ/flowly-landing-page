@@ -141,7 +141,7 @@ It shows awareness of browser storage APIs without overengineering. A real produ
 
 ## Author
 
-**[Your Name]**  
+**[Manish.U]**  
 [GitHub](https://github.com/manishsinghHQ) · [LinkedIn](https://www.linkedin.com/in/manish-u-39689b282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
